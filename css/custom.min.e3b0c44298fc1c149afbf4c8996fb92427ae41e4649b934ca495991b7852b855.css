@@ -1,6 +1,28 @@
-/* 设置全局字体为Roboto 
-body {
-    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif !important;
-    color: rgb(0, 0, 0) !important;
-    font-weight: 400 !important;
-}*/
+/* 防止页面切换时抖动 */
+/*
+html {
+    overflow-y: scroll;  
+    margin-left: calc(100vw - 100%);  
+    margin-right: 0;
+  }
+*/
+
+  /* 如果你想让滚动条看起来更现代，可以添加以下样式 */
+/* 
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+*/
