@@ -188,7 +188,11 @@ a.read-more:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100%;
   padding: 20px; }
   .header__right {
     display: flex;
@@ -357,7 +361,8 @@ a.read-more:active {
     cursor: pointer; }
 
 html {
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  overflow-y: scroll; }
 
 *,
 *:before,
@@ -531,7 +536,8 @@ ol ol {
   flex: 1 auto;
   align-items: center;
   justify-content: center;
-  margin: 50px 0; }
+  margin: 50px 0;
+  padding-top: 70px; }
   @media (max-width: 684px) {
     .content {
       margin-top: 0; } }
@@ -1089,6 +1095,3 @@ div.code-toolbar > .toolbar span:focus {
     line-height: 0; }
   .collapsable-code .code-toolbar {
     margin: 0; }
-
-html {
-  overflow-y: scroll; }
