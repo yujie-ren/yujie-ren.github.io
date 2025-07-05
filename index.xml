@@ -12,4 +12,16 @@ Header 2
 &lt;/h2>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p></description></item><item><title>Hello Friend</title><link>https://yujie-ren.github.io/post/hello/</link><pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate><guid>https://yujie-ren.github.io/post/hello/</guid><description>
 &lt;img src="https://yujie-ren.github.io/img/hello.jpg"/>
-"Hello, friend?" That's lame. Maybe I should give you a name?</description></item><item><title>Archive</title><link>https://yujie-ren.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yujie-ren.github.io/archive/</guid><description/></item></channel></rss>
+"Hello, friend?" That's lame. Maybe I should give you a name?</description></item><item><title>Archive</title><link>https://yujie-ren.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yujie-ren.github.io/archive/</guid><description>
+&lt;h1 id="hi-there">
+Hi there
+&lt;a href="#hi-there" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h1>
+&lt;p>My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.&lt;/p>
+&lt;p>We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.&lt;/p></description></item><item><title>Publication</title><link>https://yujie-ren.github.io/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yujie-ren.github.io/publication/</guid><description>
+&lt;h1 id="publication">
+Publication
+&lt;a href="#publication" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h1>
+&lt;p>My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.&lt;/p>
+&lt;p>We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.&lt;/p></description></item></channel></rss>
