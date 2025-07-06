@@ -361,7 +361,12 @@ a.read-more:active {
     cursor: pointer; }
 
 .menu__inner a.active {
-  color: #e74c3c !important; }
+  color: #B22222; }
+
+.menu a:hover,
+.menu a:focus {
+  color: #B22222;
+  transition: color 0.2s; }
 
 html {
   box-sizing: border-box;
