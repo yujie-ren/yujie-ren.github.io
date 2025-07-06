@@ -361,11 +361,11 @@ a.read-more:active {
     cursor: pointer; }
 
 .menu__inner a.active {
-  color: #B22222; }
+  color: #FF0000; }
 
 .menu a:hover,
 .menu a:focus {
-  color: #B22222;
+  color: #FF0000;
   transition: color 0.2s; }
 
 html {
