@@ -360,6 +360,9 @@ a.read-more:active {
     margin-left: 10px;
     cursor: pointer; }
 
+.menu__inner a.active {
+  color: #e74c3c !important; }
+
 html {
   box-sizing: border-box;
   overflow-y: scroll; }
