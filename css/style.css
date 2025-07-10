@@ -755,6 +755,14 @@ h4:hover a {
       .footer .copyright {
         flex-direction: column;
         margin-top: 10px; } }
+.footer a {
+  text-decoration: none;
+  transition: color 0.2s; }
+
+.footer a:hover {
+  color: red;
+  text-decoration: none; }
+
 .terms {
   width: 100%;
   max-width: 800px;
