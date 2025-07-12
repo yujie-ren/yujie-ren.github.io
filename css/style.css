@@ -360,11 +360,11 @@ a.read-more:active {
     cursor: pointer; }
 
 .menu__inner a.active {
-  color: #FF0000; }
+  color: #0969da; }
 
 .menu a:hover,
 .menu a:focus {
-  color: #FF0000;
+  color: #0969da;
   transition: color 0.2s; }
 
 html {
@@ -759,7 +759,7 @@ h4:hover a {
   transition: color 0.2s; }
 
 .footer a:hover {
-  color: red;
+  color: #0969da;
   text-decoration: none; }
 
 .terms {
