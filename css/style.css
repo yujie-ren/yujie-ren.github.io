@@ -744,7 +744,12 @@ h4:hover a {
     font-size: 1rem; }
     .footer .copyright--user {
       margin: auto;
-      text-align: center; }
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      gap: 5px; }
+      .footer .copyright--user span {
+        display: inline-block; }
     @media (max-width: 900px) {
       .footer .copyright > * {
         border: none;
