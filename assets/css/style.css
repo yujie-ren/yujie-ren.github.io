@@ -599,6 +599,7 @@ footer {
   }
   header {
     padding: 0;
+    padding-top: 70px;
   }
   pre, code {
     word-wrap: normal;
