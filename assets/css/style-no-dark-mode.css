@@ -369,6 +369,10 @@ header {
   text-align: left;
 }
 
+header h1 a, header h1 a:hover {
+  color: inherit;
+}
+
 header .profile-row {
   display: flex;
   align-items: flex-start;
